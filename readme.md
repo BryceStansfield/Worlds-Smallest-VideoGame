@@ -24,7 +24,7 @@ If you lose, just refresh and try again.
   
 
 ## Images
-!(simulated)[images/smallestGameInProgressSimulator.png?raw=true]
+!(simulated)[images/smallestGameInProgressSimulator.png]
   
   
 
