@@ -6,9 +6,7 @@ This repo contains a game of frogger, contain entirely within a 5x10 pixel html 
 
 Each pixel of an LCD display actually consists of three smaller 'subpixels's, one for red, one for green, and one for blue.
 
-By abusing the fact that most LCD displays share a subpixel layout in common (that being three vertical stripes, in 'RGB' order),
-
-we can treat a single RGB LCD pixel as if it was three seperate monochrome pixels.
+By abusing the fact that most LCD displays share a subpixel layout in common (that being three vertical stripes, in 'RGB' order), we can treat a single RGB LCD pixel as if it was three seperate monochrome pixels.
 
 ## Instructions:
 
