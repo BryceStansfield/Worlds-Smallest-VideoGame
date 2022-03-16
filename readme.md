@@ -14,9 +14,7 @@ Open either game.html (for the vanilla experience), or gamewithsimulator.html (f
 
   
 
-Your goal is to navigate to the top of the screen without being hit by a car (the moving pixel blobs on the bottom half of the screen),
-
-or falling into the water (the black blob in the top half of the screen).
+Your goal is to navigate to the top of the screen without being hit by a car (the moving pixel blobs on the bottom half of the screen), or falling into the water (the black blob in the top half of the screen).
 
   
 
@@ -26,7 +24,7 @@ If you lose, just refresh and try again.
   
 
 ## Images
-
+!(simulated)[images/smallestGameInProgressSimulator.png?raw=true]
   
   
 
