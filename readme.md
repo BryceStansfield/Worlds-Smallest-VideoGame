@@ -24,13 +24,12 @@ If you lose, just refresh and try again.
   
 
 ## Images
-!(simulated)[images/smallestGameInProgressSimulator.png]
+### Simulated Gameplay
+![simulated](images/smallestGameInProgressSimulator.png)
   
   
-
-(Non-simulator images to be added soon).
-
-  
+### Real Life Images
+Although I could see the game taking place with my naked eye, I had trouble taking a coherent photo of gameplay. If anyone has any ideas, or if you manage to take a photo please let me know :).
 
 \* No attempt at verification made.
 
